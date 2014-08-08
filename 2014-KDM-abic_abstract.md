@@ -1,9 +1,10 @@
 Integrated Genotype, Phenotype and Environment Acquisition, Monitoring and Association
+Tools for Adaptation 
 =====================================================================================
 
-To keep pace with a changing world, the crop science and environmental ecology
-must together improve the efficiency of the biosphere, while conserving natural
-environments. Both fields must integrate the latest methodological advances to
+To keep pace and help stabilze a changing world, agriculture and ecosystem science 
+must aim to improve efficiency and regenerate natural environments of the biosphere.
+Both fields must integrate the latest methodological advances to
 accurately and rapidly find populations that perform optimally under a changing
 climate. The TraitCapture project, lead by the Borevitz lab, aims to create an
 end-to-en, integrated, plant genomics, phenomics and environment platform.
