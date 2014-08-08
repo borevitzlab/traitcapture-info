@@ -1,8 +1,7 @@
-Integrated Genotype, Phenotype and Environment Acquisition, Monitoring and Association
-Tools for Adaptation 
+Integrated Genotype, Phenotype and Environment Acquisition, Monitoring and Association Tools for Adaptation
 =====================================================================================
 
-To keep pace and help stabilze a changing world, agriculture and ecosystem science 
+To keep pace and help stabilze a changing world, agriculture and ecosystem science
 must aim to improve efficiency and regenerate natural environments of the biosphere.
 Both fields must integrate the latest methodological advances to
 accurately and rapidly find populations that perform optimally under a changing
