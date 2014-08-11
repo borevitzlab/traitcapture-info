@@ -2,7 +2,7 @@ Tools for Adaptation: integrating Environment, Genotype and Phenotype
 
 =====================================================================================
 
-Kevin Murray, Tim Brown, Riyan Cheng, Justin Borevitz
+Kevin Murray, Tim Brown, Riyan Cheng, Xavier Sirault, Justin Borevitz
 
 To keep pace and help stabilze a changing world, agriculture and ecosystem science 
 must aim to sustainability intensify and regenerate natural environments of the biosphere.
