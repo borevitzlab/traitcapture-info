@@ -16,15 +16,14 @@ provides high throughput measures of hyper-spectral, thermal, and fluorescence
 image based phenotypes including photosynthetic efficiency. Computational image
 analysis provides quantitative, real-time metrics of growth and development on
 plants grown under dynamic environments. Hierarchical genomic analyses from
-Genotyping-by-Sequencing through imputed whole-genome genotyping to low and
-high coverage whole-genome and epi-genome sequencing are integrated within
-TraitCapture. Genome-wide association studies are used to dissect phenotypic
-variation across environments into quantitative trait loci with candidate
-genes. Finally, functional structural plant models will be used to predict the
-performance of various genetic combinations under future variable climates to
-select what to plant where. Underlying the experimental pipeline is end-to-end
-sample tracking and data management system, enabling reproducible research and
-data sharing.
+reduced-representation sequencing to low and high coverage whole (epi-)genome
+and haplotype imputation are integrated within TraitCapture. Genome-wide
+association studies are used to dissect phenotypic variation across
+environments into quantitative trait loci with candidate genes. Finally,
+functional structural plant models will be used to predict the performance of
+various genetic combinations under future variable climates to select what to
+plant where. Underlying the experimental pipeline is end-to-end sample tracking
+and data management system, enabling reproducible research and data sharing.
 
 The TraitCapture project is funded and many components have already been
 implemented. All TraitCapture code is released under the GNU GPL, and
