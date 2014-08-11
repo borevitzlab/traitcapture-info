@@ -16,9 +16,7 @@ provides high throughput measures of hyper-spectral, thermal, and fluorescence
 image based phenotypes including photosynthetic efficiency. Computational image
 analysis provides quantitative, real-time metrics of growth and development on
 plants grown under dynamic environments. Hierarchical genomic analyses from
-reduced-representation sequencing to low and high coverage whole (epi-)genome
-and haplotype imputation are integrated within TraitCapture. Genome-wide
-association studies are used to dissect phenotypic variation across
+reduced-representation to whole (epi)genome sequencing with haplotype based imputation will be integrated within TraitCapture. Genome-wide association studies are used to dissect phenotypic variation across
 environments into quantitative trait loci with candidate genes. Finally,
 functional structural plant models will be used to predict the performance of
 various genetic combinations under future variable climates to select what to
