@@ -14,4 +14,4 @@ Index
 ----
 
 - ABiC bioinformatics conference talk/poster abstract
-  [link](../blob/master/2014-KDM-abic_abstract.md).
+  [link](../master/2014-KDM-abic_abstract.md).
